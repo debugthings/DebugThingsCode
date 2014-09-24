@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.30723.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DebugThingsCode", "DebugThingsCode\DebugThingsCode.vcxproj", "{03D0FA5E-5177-440D-A6BE-1B080F7B8B24}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CriticalSectionDeadlock", "CriticalSectionDeadlock\CriticalSectionDeadlock.vcxproj", "{571D23D2-640D-4C0A-B790-F23B65978DCB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Win32 = Release|Win32
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{03D0FA5E-5177-440D-A6BE-1B080F7B8B24}.Debug|Win32.ActiveCfg = Debug|Win32
-		{03D0FA5E-5177-440D-A6BE-1B080F7B8B24}.Debug|Win32.Build.0 = Debug|Win32
-		{03D0FA5E-5177-440D-A6BE-1B080F7B8B24}.Release|Win32.ActiveCfg = Release|Win32
-		{03D0FA5E-5177-440D-A6BE-1B080F7B8B24}.Release|Win32.Build.0 = Release|Win32
+		{571D23D2-640D-4C0A-B790-F23B65978DCB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{571D23D2-640D-4C0A-B790-F23B65978DCB}.Debug|Win32.Build.0 = Debug|Win32
+		{571D23D2-640D-4C0A-B790-F23B65978DCB}.Release|Win32.ActiveCfg = Release|Win32
+		{571D23D2-640D-4C0A-B790-F23B65978DCB}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
